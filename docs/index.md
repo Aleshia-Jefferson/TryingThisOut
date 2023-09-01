@@ -2,7 +2,7 @@
 To add your picture in either Outlook or SharePoint:
 
 1. Go to the waffle in SharePoint.
-    ![Find the Waffle](images/addprofileStep01.png "Waffle") 
+    ![Find the Waffle](https://github.com/digitalpenny/TryingThisOut/docs/images/addprofileStep01.png?raw=true) 
 2. Do you have the **Delve** app in your list of apps?
     1. If **yes**, select it, then go to **Step 5**.
     2. If **no**, select the link, **Explore all your apps** at the bottom of your listed apps, then go to **Step 3**.
