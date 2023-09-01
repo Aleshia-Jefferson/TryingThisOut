@@ -1,10 +1,10 @@
 # Add a Profile Picture in SharePoint & Outlook
 To add your picture in either Outlook or SharePoint:
 
-1. Go to the waffle in FYIBlue.
-    ![Find the Waffle](https://myfyi.sharepoint.com/:i:/r/sites/africanamericansinmotionaaimbrg/SiteAssets/Site%20Pictures/Procedures/addprofileStep01.png?csf=1&web=1&e=jkh1mH "Waffle") 
+1. Go to the waffle in SharePoint.
+    ![Find the Waffle](images/addprofileStep01.png "Waffle") 
 2. Do you have the **Delve** app in your list of apps?
-    1. If **yes**, select it, then go to Step 5.
+    1. If **yes**, select it, then go to **Step 5**.
     2. If **no**, select the link, **Explore all your apps** at the bottom of your listed apps, then go to **Step 3**.
     ![Find Delve](https://myfyi.sharepoint.com/:i:/r/sites/africanamericansinmotionaaimbrg/SiteAssets/Site%20Pictures/Procedures/addprofileStep02b.png?csf=1&web=1&e=Z7MEck "Find Delve")
 3. Look to the right side of the screen and select the **All apps** link.
